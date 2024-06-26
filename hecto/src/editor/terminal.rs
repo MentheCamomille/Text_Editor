@@ -7,6 +7,7 @@ use std::io::{stdout, Error, Write};
 #[derive(Copy, Clone)] //copie les ressources, méthode clone
 //voir la doc
 //https://doc.rust-lang.org/rust-by-example/trait/clone.html
+
 pub struct Size {
     pub height: u16,
     pub width: u16,
