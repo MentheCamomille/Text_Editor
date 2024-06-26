@@ -1,1 +1,0 @@
-/home/shayman/Documents/rust/editor/hecto/target/debug/hecto: /home/shayman/Documents/rust/editor/hecto/src/editor/terminal.rs /home/shayman/Documents/rust/editor/hecto/src/editor.rs /home/shayman/Documents/rust/editor/hecto/src/main.rs
